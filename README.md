@@ -1,8 +1,8 @@
 # Pertemuan 05 Perulangan Python
 
-Nama: [Isi Nama Anda]
-NIM: [Isi NIM Anda]
-Kelas: [Isi Kelas Anda]
+Nama: [Jihan Fithriyyah]
+NIM: [2225250155]
+Kelas: [3A]
 
 ## Tujuan
 Menggunakan for dan while untuk menyelesaikan masalah iteratif.
